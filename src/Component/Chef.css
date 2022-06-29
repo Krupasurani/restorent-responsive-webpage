@@ -1,0 +1,589 @@
+.blacf{
+    position: absolute;
+    width: 50rem;
+    height: 50rem;
+    display: flex;
+    margin-top: 3rem;
+}
+
+
+
+
+
+.chf{position: absolute;
+    display: flex;
+  margin-top: 12%;
+  margin-left: 15%;
+    width: 500px;
+height: 550px;
+
+
+
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.tec{
+/* Auto layout */
+position: absolute;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+left: 55%;
+margin-top: 13%;
+padding: 0px;
+gap: 64px;
+
+width: 570px;
+height: 515px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+
+.chefword{
+    width: 150px;
+    height: 30px;
+    margin-top: 4%;
+    /* H5 23px Cormorant Upright */
+    
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 130%;
+    /* identical to box height, or 30px */
+    
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    /* FFFFFF */
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.whatwe{
+
+    width: 600px;
+    height: 83px;
+    
+    /* H2 64px Cormorant Upright */
+    
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 130%;
+    /* or 83px */
+    
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    /* DCCA87 */
+    
+    color: #DCCA87;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.parl{
+    position: relative;
+    width: 570px;
+height: 84px;
+bottom: 15%;
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 175%;
+/* or 28px */
+
+letter-spacing: 0.04em;
+
+/* AAAAAA */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.fa{position: absolute;
+    display: flex;
+    margin-top: 58%;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    
+    width: 135px;
+    height: 78px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.kevin{
+    width: 150px;
+    height: 42px;
+    
+    /* H4 32px Cormorant Upright */
+    
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 130%;
+    /* identical to box height, or 42px */
+    
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    /* DCCA87 */
+    
+    color: #DCCA87;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.luo{
+
+    width: 126px;
+    height: 28px;
+    
+    /* Body 16px Regular */
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175%;
+    /* identical to box height, or 28px */
+    
+    letter-spacing: 0.04em;
+    
+    /* AAAAAA */
+    
+    color: #AAAAAA;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.signa{position: absolute;
+    top: 70%;
+
+    width: 200px;
+    height: 83px;
+    
+    font-family: 'Bestermind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 130%;
+    /* or 83px */
+    
+    letter-spacing: 0.04em;
+    
+    /* AAAAAA */
+    
+    color: #AAAAAA;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+
+
+
+
+@media(max-width: 1100px){
+    .blacf{
+        position: absolute;
+        width: 50rem;
+        height: 50rem;
+        display: flex;
+        margin-top: 10rem;
+    }
+   
+    .chf{position: absolute;
+        display: flex;
+      margin-top: 50%;
+      margin-left: 5%;
+        width: 300px;
+    height: 340px;
+    
+
+    }
+    
+    
+    .tec{
+    /* Auto layout */
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    left: 50%;
+    margin-top: 35%;
+    padding: 0px;
+    gap: 64px;
+    
+    width: 300px;
+    height: 515px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    }
+    
+    
+    .chefword{
+        width: 150px;
+        height: 30px;
+        margin-top: 4%;
+        /* H5 23px Cormorant Upright */
+        
+        font-family: 'Cormorant Upright';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 130%;
+        /* identical to box height, or 30px */
+        
+        letter-spacing: 0.04em;
+        text-transform: capitalize;
+        font-feature-settings: 'tnum' on, 'lnum' on;
+        
+        /* FFFFFF */
+        
+        color: #FFFFFF;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+    .whatwe{
+    
+        width: 320px;
+        height: 83px;
+       
+        font-size: 35px;
+        line-height: 30%;
+        
+        color: #DCCA87;
+        
+    
+    }
+    
+    .parl{
+        width: 300px;
+height: 84px;
+
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 175%;
+/* or 28px */
+
+letter-spacing: 0.04em;
+
+/* AAAAAA */
+
+color: #AAAAAA;
+
+
+
+order: 1;
+align-self: stretch;
+
+    
+    }
+    
+    .fa{position: absolute;
+        display: flex;
+        margin-top: 130%;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 8px;
+        
+        width: 135px;
+        height: 78px;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 2;
+        flex-grow: 0;
+    
+    }
+    
+    .kevin{
+        width: 150px;
+        height: 42px;
+        
+        /* H4 32px Cormorant Upright */
+        
+        font-family: 'Cormorant Upright';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 130%;
+        /* identical to box height, or 42px */
+        
+        letter-spacing: 0.04em;
+        text-transform: capitalize;
+        font-feature-settings: 'tnum' on, 'lnum' on;
+        
+        /* DCCA87 */
+        
+        color: #DCCA87;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+    .luo{
+    
+        width: 126px;
+        height: 28px;
+        
+        /* Body 16px Regular */
+        
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 175%;
+        /* identical to box height, or 28px */
+        
+        letter-spacing: 0.04em;
+        
+        /* AAAAAA */
+        
+        color: #AAAAAA;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    
+    .signa{position: absolute;
+        top: 79%;
+    
+        width: 200px;
+        height: 83px;
+        
+        font-family: 'Bestermind';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 130%;
+        /* or 83px */
+        
+        letter-spacing: 0.04em;
+        
+        /* AAAAAA */
+        
+        color: #AAAAAA;
+        
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 3;
+        flex-grow: 0;
+    }
+    
+
+}
+
+
+
+
+
+
+@media(max-width: 700px){
+    .blacf{
+        position: absolute;
+        width: 375px;
+        height: 62rem;
+        display: flex;
+        margin-top: 10rem;
+    }
+   
+    .chf{position: absolute;
+        display: flex;
+      margin-top: 50%;
+      margin-left: 10%;
+        width: 300px;
+    height: 340px;
+    
+
+    }
+    
+    
+    .tec{
+    /* Auto layout */
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    left: 2%;
+    margin-top: 150%;
+   
+    
+    width: 300px;
+    height: 515px;
+    
+    
+  
+    
+    }
+    
+    
+    .chefword{
+        width: 150px;
+        height: 30px;
+        margin-top: 4%;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 130%;
+        
+        
+        color: #FFFFFF;
+    }
+    
+    .whatwe{
+    
+        width: 320px;
+        height: 83px;
+       
+        font-size: 35px;
+        line-height: 30%;
+        
+        color: #DCCA87;
+        
+    
+    }
+    
+    .parl{
+        width: 300px;
+height: 84px;
+
+
+font-size: 16px;
+
+
+color: #AAAAAA;
+
+
+
+order: 1;
+align-self: stretch;
+
+    
+    }
+    
+    .fa{position: absolute;
+        display: flex;
+        margin-top: 130%;
+        
+        width: 135px;
+        height: 78px;
+       
+    
+    }
+    
+    .kevin{
+        width: 150px;
+        height: 42px;
+        font-weight: 400;
+        color: #DCCA87;
+    }
+    
+    .luo{
+    
+        width: 126px;
+        height: 28px;
+        
+        color: #AAAAAA;
+        
+    }
+    
+    .signa{position: absolute;
+        top: 79%;
+    
+        width: 200px;
+        height: 83px;
+
+      
+    }
+    
+
+}

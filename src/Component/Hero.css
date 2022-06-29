@@ -1,0 +1,322 @@
+.squaref{
+    width: 50%;
+    height: 60vh;
+    display: flex;
+    align-self: flex-start;
+    justify-self: end;
+    margin-top: 10%;
+    margin-left: 50%;
+    
+}
+
+
+
+.ssquaref1{
+    
+    width: 60%;
+    height: 39vh;
+    display: flex;
+    margin-top: 37%;
+   margin-left: -19rem;
+    
+
+    
+    background: #DCCA87;
+}
+
+.ssquaref2{
+
+    width: 60%;
+    height: 30vh;
+    display: flex;
+    margin-top: 6.5%;
+    margin-left: -3rem;
+    
+
+    
+    background: #DCCA87
+}
+
+.foodp1{
+
+    position: absolute;
+width: 32.8%;
+height: 50vh;
+left: 48.5%;
+top: 21.5%
+
+}
+
+.textf1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+margin-top: 30%;
+margin-left: 35%;
+width: 2rem;
+height: 481px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.ches{
+    width: 18rem;
+    height: 30px;
+    
+    /* H5 23px Cormorant Upright */
+    
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.3em;
+    line-height: 130%;
+    /* identical to box height, or 30px */
+    
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    /* FFFFFF */
+    
+    color: #FFFFFF;
+    margin-top: 30%;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.thekey{
+    width: 453px;
+    height: 234px;
+    
+    /* H1 90px Cormorant Upright Semi */
+    
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 130%;
+    /* or 117px */
+    
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    
+    /* DCCA87 */
+    
+    color: #DCCA87;
+    margin-top: -2rem;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0
+}
+
+.sittell{
+
+    width: 453px;
+    height: 84px;
+    
+    /* Body 16px Regular */
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175%;
+    /* or 28px */
+    
+    letter-spacing: 0.04em;
+    margin-top: -5rem;
+    /* AAAAAA */
+    
+    color: #AAAAAA;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 3;
+    flex-grow: 0
+
+}
+
+.btn1{
+
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 32px;
+margin-top: 1rem;
+width: 8rem;
+height: 44px;
+
+/* DCCA87 */
+
+background: #DCCA87;
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0
+}
+
+
+
+
+@media(max-width: 1200px){
+
+.ssquaref1{
+   
+    width: 0%;
+    height: 0vh;
+    display: flex;
+   
+    
+
+}
+.btn1{
+    display: flex;
+
+margin-top: 25rem;
+ width: 148px;
+height: 50px;
+margin-top: 40rem;
+justify-content: center;
+
+}
+
+.ssquaref2{
+
+    width: 0%;
+    height: 0vh;
+    display: flex;
+   
+    
+}
+.foodp1{
+
+    position: flex;
+width: 40%;
+height: 10%;
+margin-top: 10%;
+
+margin-top: 2rem;
+justify-content: center;
+margin-left: 5rem;
+
+
+
+}
+    
+    
+}
+
+
+@media(max-width: 850px){
+    .textf1{position: relative;
+
+    padding: 0px;
+    gap: 20px;
+    
+    width: 100%;
+    height: 5rem;  
+   }
+
+
+
+
+
+.ches{width: 246px;
+    height: 0px;
+    
+   
+   margin-top:27rem;
+    font-weight: 700;
+    font-size: 23px;
+    margin-left: 20%;
+    
+    display: flex;
+
+    
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0}
+    
+    
+    
+    .sittell{
+        width: 180px;
+margin-top: 14rem;
+margin-left: 20%;
+
+font-weight: 400;
+font-size: 16px;
+line-height: 175%;
+align-items: center;
+justify-content: center;
+display: flex;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+    }
+    
+    .btn1{
+      position: absolute;
+     width: 148px;
+    height: 40px;
+    top: 60%;
+    left: 20%;
+    }
+    
+    
+    .thekey{
+        position:absolute;
+        width: 314px;
+        height: 20px;
+        
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+        margin-top: 15rem;
+        
+        
+          align-self: stretch;
+        
+    }
+
+    .foodp1{
+
+        position: flex;
+    width: 50%;
+    height: 25%;
+    margin-top: 28rem;
+    justify-self: center;
+    margin-left: -25%;
+    align-self: center;
+    justify-content: center;
+    
+
+    }
+    
+    
+       
+    }
+    
+    
+    
+    

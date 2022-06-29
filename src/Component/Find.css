@@ -1,0 +1,418 @@
+.findf{
+    display: flex;
+    width: 100%;
+    height: 890px;
+    margin-top: 2%;
+    
+}
+
+
+.blacf1{
+
+    display: flex;
+    width: 100%;
+    height: 830px;
+    margin-top: 2%;
+    
+}
+
+
+.sharbat{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    display: flex;
+    margin-top: 10%;
+    margin-left: 60%;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+.likhavat{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+    margin-left: -80%;
+    margin-top: 16%;
+    width: 500px;
+    height: 400px;   
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+
+}
+
+
+.contactword{
+    position: absolute;
+    width: 76px;
+    height: 30px;
+    display: flex;
+    margin-top: -20%;
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    color: #FFFFFF;   
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+
+.findme{position: absolute;
+    width: 215px;
+    height: 83px;
+    display: flex;
+    margin-top: -10%;
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 130%;   
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    color: #DCCA87; 
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+
+.longf{
+   position: absolute;
+    width: 513px;
+    height: 28px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175%; 
+    letter-spacing: 0.04em;  
+    color: #AAAAAA;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+.fa2{position: absolute;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    margin-top: 15%;
+    width: 244px;
+    height: 118px;
+      
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.openf{
+
+    width: 178px;
+height: 30px;
+font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 130%;
+letter-spacing: 0.04em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #DCCA87;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.date1{
+
+    width: 244px;
+    height: 28px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175%;   
+    letter-spacing: 0.04em; 
+    color: #FFFFFF; 
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.date2{
+
+    width: 244px;
+    height: 28px; 
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 175%;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+
+
+
+@media(max-width: 1100px){
+    .findf{
+        display: flex;
+        width: 100%;
+        height: 1090px;
+        margin-top: 0%;
+        
+    }
+    
+    
+    .blacf1{
+    
+        display: flex;
+        width: 100%;
+        height: 1030px;
+        margin-top: 2%;
+        
+    }
+    
+    
+    .sharbat{
+        position: absolute;
+        width: 500px;
+        height: 600px;
+        display: flex;
+        margin-top: 50%;
+        margin-left: 20%;
+        
+    }
+    
+    
+    .likhavat{
+        display: flex;
+        margin-left: -80%;
+        margin-top: 5%;
+        width: 500px;
+        height: 300px;   
+    
+    }
+    
+    
+    .contactword{
+        position: absolute;
+        margin-top: -30%;
+       
+    
+    }
+    
+    
+    .findme{position: absolute;
+        
+        margin-top: -15%;
+
+    
+    }
+    
+    
+    .longf{
+       position: absolute;
+       margin-top: -5%;
+       font-size: 20px;
+    }
+    
+    
+    .fa2{position: absolute;
+    
+        margin-top: 25%;
+       
+    }
+    
+    
+}
+
+@media(max-width: 600px){
+   
+    .findf{
+        display: flex;
+        margin-top: -10%;
+        width: 100%;
+        height: 990px;
+        margin-top: 2%;
+        
+    }
+    
+    
+    .blacf1{
+    
+        display: flex;
+        width: 100%;
+        height: 880px;
+        margin-top: 0%
+        
+    }
+    
+    
+    .sharbat{
+        position: absolute;
+        width: 300px;
+        height: 400px;
+        display: flex;
+        margin-top: 110%;
+        margin-left: 10%;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    
+    
+    .likhavat{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 64px;
+        margin-left: -80%;
+        margin-top: -10%;
+        width: 300px;
+        height: 400px;   
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        
+    
+    }
+    
+    
+    .contactword{
+        position: absolute;
+        width: 76px;
+        height: 30px;
+        display: flex;
+        margin-top: -40%;
+        
+    
+    }
+    
+    
+    .findme{position: absolute;
+        width: 215px;
+        height: 83px;
+        display: flex;
+        margin-top: -10%;
+        font-size: 40px;
+       
+    
+    }
+    
+    
+    .longf{
+       position: absolute;
+       margin-top: 10%;
+        width: 213px;
+        height: 28px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 175%; 
+        letter-spacing: 0.04em;  
+        color: #AAAAAA;
+        
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+    
+    .fa2{position: absolute;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 16px;
+        margin-top: 85%;
+        width: 244px;
+        height: 118px;
+          
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    
+    .openf{
+    
+        width: 178px;
+    height: 30px;
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #DCCA87;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    
+    .date1{
+    
+        width: 244px;
+        height: 28px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 175%;   
+        letter-spacing: 0.04em; 
+        color: #FFFFFF; 
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+    .date2{
+    
+        width: 244px;
+        height: 28px; 
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 175%;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
+    
+}
