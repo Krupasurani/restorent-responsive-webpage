@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/restorent-responsive-webpage/static/css/main.b0f607b2.css",
+    "main.js": "/restorent-responsive-webpage/static/js/main.a787dbca.js",
+    "static/js/787.f6b21ca1.chunk.js": "/restorent-responsive-webpage/static/js/787.f6b21ca1.chunk.js",
+    "static/media/BG.png": "/restorent-responsive-webpage/static/media/BG.62c6b20c7bbfa9c7858e.png",
+    "static/media/glass.png": "/restorent-responsive-webpage/static/media/glass.16d49fe3c6e398abef4e.png",
+    "static/media/malik.png": "/restorent-responsive-webpage/static/media/malik.15a22ebddc5788655ddb.png",
+    "static/media/Video.png": "/restorent-responsive-webpage/static/media/Video.abb6f95e7b6f962b6b3c.png",
+    "static/media/chef.png": "/restorent-responsive-webpage/static/media/chef.9b73498e225d51568d51.png",
+    "static/media/hp.png": "/restorent-responsive-webpage/static/media/hp.b6953e43fd9911127e65.png",
+    "static/media/Mask.png": "/restorent-responsive-webpage/static/media/Mask.d8fd76463107722b0df9.png",
+    "static/media/jug.png": "/restorent-responsive-webpage/static/media/jug.c6027ff2ef287e8a525d.png",
+    "static/media/fl1.png": "/restorent-responsive-webpage/static/media/fl1.2e572e6fad1b87a04409.png",
+    "static/media/fl2.png": "/restorent-responsive-webpage/static/media/fl2.56d72131942b19be9401.png",
+    "static/media/fl3.png": "/restorent-responsive-webpage/static/media/fl3.32d39eaf515102ccff53.png",
+    "static/media/knive.png": "/restorent-responsive-webpage/static/media/knive.008082a4d2cf77f217bf.png",
+    "static/media/fl4.png": "/restorent-responsive-webpage/static/media/fl4.3ca459d3acd07423b4a0.png",
+    "static/media/fl22.png": "/restorent-responsive-webpage/static/media/fl22.b0a97762cce1ade9b8a0.png",
+    "static/media/Awards.png": "/restorent-responsive-webpage/static/media/Awards.7163419cd99bdec678e4.png",
+    "static/media/Cocktails.png": "/restorent-responsive-webpage/static/media/Cocktails.ccabb2d250beeaae553f.png",
+    "static/media/Wine.png": "/restorent-responsive-webpage/static/media/Wine.1438bcca840db61b828d.png",
+    "static/media/G.png": "/restorent-responsive-webpage/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/l2.png": "/restorent-responsive-webpage/static/media/l2.3504ae6c1afdfeabe425.png",
+    "static/media/Kevinl.png": "/restorent-responsive-webpage/static/media/Kevinl.9bf0bd90ad4caa17991f.png",
+    "index.html": "/restorent-responsive-webpage/index.html",
+    "main.b0f607b2.css.map": "/restorent-responsive-webpage/static/css/main.b0f607b2.css.map",
+    "main.a787dbca.js.map": "/restorent-responsive-webpage/static/js/main.a787dbca.js.map",
+    "787.f6b21ca1.chunk.js.map": "/restorent-responsive-webpage/static/js/787.f6b21ca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f607b2.css",
+    "static/js/main.a787dbca.js"
+  ]
+}
